@@ -1,4 +1,7 @@
 # Heartline
+![Language](https://img.shields.io/badge/language-java-red.svg)
+![design](https://img.shields.io/badge/design-xml-red.svg)
+![license](https://img.shields.io/badge/license-MIT-red.svg)
 ## What is the app?
 This is an health monitoring system. It uses data from the pulse sensor to monitor a persons health and makes automated calls.It sends data from the pulse sensor to firebase real time data base using arduino(code in arduino file) and makes automated calls based on this data
 
